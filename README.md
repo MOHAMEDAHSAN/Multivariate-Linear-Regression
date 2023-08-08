@@ -9,7 +9,7 @@ To write a python program to implement multivariate linear regression and predic
 #### Step2 - Read the csv file.
 #### Step3 - Extract 'Weight' and 'Volume' as 'x' and 'CO2' as 'y'.
 #### Step4 - Create linear regression model and fit it with the data, and find the coefficients and intercept.
-#### Step5 - Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm3 and print.
+#### Step5 - Predict the CO2 emission of a car where the weight is 3300kg, and the volume is 1300cm3 and print.
 
 ## Program:
 ~~~Python
